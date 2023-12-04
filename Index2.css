@@ -1,0 +1,37 @@
+
+#image-topper{
+    background-color: grey;
+}
+
+#smith-co{
+    border-radius: 80%;
+    height: 150px;
+}
+
+#tool-bar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    background-color: cadetblue;   
+}
+
+#who-we-are{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkgray;
+    text-align: center;
+}
+
+#what-we-offer{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkgray;
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 10px;
+
+}
+
